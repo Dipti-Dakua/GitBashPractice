@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-10T14:43:17 IST" name="Suite" finished-at="2023-03-10T14:43:17 IST" duration-ms="57">
+    <groups>
+    </groups>
+    <test started-at="2023-03-10T14:43:17 IST" name="Test" finished-at="2023-03-10T14:43:17 IST" duration-ms="57">
+      <class name="com.practice.JenkinPracticeTest">
+        <test-method signature="jenkinPractice()[pri:0, instance:com.practice.JenkinPracticeTest@47faa49c]" started-at="2023-03-10T14:43:17 IST" name="jenkinPractice" finished-at="2023-03-10T14:43:17 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jenkinPractice -->
+      </class> <!-- com.practice.JenkinPracticeTest -->
+      <class name="com.practice.JenkinPractice2Test">
+        <test-method signature="jenkinPractice2()[pri:0, instance:com.practice.JenkinPractice2Test@28f3b248]" started-at="2023-03-10T14:43:17 IST" name="jenkinPractice2" finished-at="2023-03-10T14:43:17 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jenkinPractice2 -->
+      </class> <!-- com.practice.JenkinPractice2Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
