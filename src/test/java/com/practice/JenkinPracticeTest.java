@@ -8,8 +8,8 @@ public class JenkinPracticeTest {
 public void jenkinPractice()
 {
 	System.out.println("test1");
-	String browser=System.getProperty("browser");
-	System.out.println(browser);
+	//String browser=System.getProperty("browser");
+	//System.out.println(browser);
 }
 
 
