@@ -2,18 +2,18 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="47" started-at="2023-03-13T12:41:18 IST" finished-at="2023-03-13T12:41:18 IST">
+  <suite name="Suite" duration-ms="47" started-at="2023-03-13T12:54:41 IST" finished-at="2023-03-13T12:54:41 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="47" started-at="2023-03-13T12:41:18 IST" finished-at="2023-03-13T12:41:18 IST">
+    <test name="Test" duration-ms="47" started-at="2023-03-13T12:54:41 IST" finished-at="2023-03-13T12:54:41 IST">
       <class name="com.practice.JenkinPracticeTest">
-        <test-method status="PASS" signature="jenkinPractice()[pri:0, instance:com.practice.JenkinPracticeTest@26aa12dd]" name="jenkinPractice" duration-ms="0" started-at="2023-03-13T12:41:18 IST" finished-at="2023-03-13T12:41:18 IST">
+        <test-method status="PASS" signature="jenkinPractice()[pri:0, instance:com.practice.JenkinPracticeTest@26aa12dd]" name="jenkinPractice" duration-ms="1" started-at="2023-03-13T12:54:41 IST" finished-at="2023-03-13T12:54:41 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- jenkinPractice -->
       </class> <!-- com.practice.JenkinPracticeTest -->
       <class name="com.practice.JenkinPractice2Test">
-        <test-method status="PASS" signature="jenkinPractice2()[pri:0, instance:com.practice.JenkinPractice2Test@5e853265]" name="jenkinPractice2" duration-ms="6" started-at="2023-03-13T12:41:18 IST" finished-at="2023-03-13T12:41:18 IST">
+        <test-method status="PASS" signature="jenkinPractice2()[pri:0, instance:com.practice.JenkinPractice2Test@5e853265]" name="jenkinPractice2" duration-ms="7" started-at="2023-03-13T12:54:41 IST" finished-at="2023-03-13T12:54:41 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- jenkinPractice2 -->
